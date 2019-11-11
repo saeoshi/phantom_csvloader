@@ -2,6 +2,6 @@
 
 WHAT DOES THIS APP DO?
 ======================
-This App can http get CSV file and push for phantom using REST API.
+This App can get CSV file with HTTP Get Request and push for phantom using REST API.
 
 
